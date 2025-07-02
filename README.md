@@ -4,7 +4,7 @@ Welcome to **GreenDen**, a modern and responsive plant store website built using
 
 ## 🔗 Live Demo
 
-[Click here to view the live site](#) <!-- Replace # with your live site URL if available -->
+[Click here to view the live site](https://karthikthangadurai.github.io/Greenden-Tailwind/)
 
 ## 📁 Project Features
 
@@ -41,6 +41,6 @@ GreenDen is designed to work seamlessly across all screen sizes, ensuring an opt
 
 ## 📬 Contact
 
-If you like this project, feel free to connect with me on [LinkedIn](#) <!-- Replace # with your LinkedIn URL -->
+If you like this project, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karthikthangadurai)
 
 💡 This project was created to practice front-end skills using Tailwind CSS and building a real-world plant store layout.
